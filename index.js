@@ -1,3 +1,5 @@
 function add() {
-  return 1000 + 439;
+  var a = 10;
+  var b = 20;
+  return a + b;
 }
